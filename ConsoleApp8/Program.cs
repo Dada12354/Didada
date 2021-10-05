@@ -14,7 +14,7 @@ namespace ConsoleApp8
             a = 3;
             b = 7;
             h = 5;
-            p=3*()
+            p = 3 * 4;
 
         }
     }
